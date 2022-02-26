@@ -28,7 +28,7 @@ __Dataset Enron corporation :__
 ## Lemmatization
    __What is Tokenazition ?__
    
-   <img src="/Users/abdessalambenayyad/Documents/ss" style="width:800px;height:300px;">
+   <img src="/Users/abdessalambenayyad/Documents/ss.PNG" style="width:800px;height:300px;">
 
    
 
