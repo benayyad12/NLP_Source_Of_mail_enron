@@ -54,6 +54,12 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 ```
 
 
+```python
+feature_extraction = TfidfVectorizer(min_df=1,stop_words='english')
+x_train_vec = feature_extraction.fit_transform(x_train)
+x_test_vec  = feature_extraction.fit_transform(x_test)
+```
+
 ## Horizontal Rules
 
 ___
