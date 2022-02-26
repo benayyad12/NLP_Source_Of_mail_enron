@@ -74,7 +74,21 @@ x_test_vec  = feature_extraction.fit_transform(x_test)
 ```python
 !pip install -q gradio
 ```
-      
+  __Code of interface :___
+import gradio as gr
+```python
+body=['burlington ha bid default lost creek fuel purchase october cig plus send reminder email future bid due th month next business day th fall weekend scott sitter bear paw energy crestone energy venture l l c ph fax ssitter enron com']
+join_body=' '.join(body)
+def sender(join_body):
+    
+    Body_vec = feature_extraction.transform(body)
+    Result = model.predict(Body_vec)
+    return(Result)
+
+
+iface = gr.Interface(fn=sender, inputs="text", outputs="text")
+iface.launch()
+```
     
     
 
@@ -83,7 +97,7 @@ x_test_vec  = feature_extraction.fit_transform(x_test)
 
 
 
-## Emphasis
+## Interface :
 
 **This is bold text**
 
