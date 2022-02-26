@@ -33,6 +33,11 @@ __Dataset Enron corporation :__
    
 
 ## Removing StopWords
+   __What is Lemmatization ?__
+   
+   
+   <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Stop-word-removal-using-NLTK.png" style="width:800px;height:300px;">
+
 ## 
 ###### h6 Heading
 
