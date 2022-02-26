@@ -1,10 +1,10 @@
 # NLP_Source_Of_mail_enron
 
-__Dataset Enron corporation :)__
+__Dataset Enron corporation :
 
 - __[Enron Dataset](http://www.cs.cmu.edu/~enron/)__ - 
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - 
+- (about 1.7Gb, tarred and gzipped)
+  
 
 You will like those projects!
 
