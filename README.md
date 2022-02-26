@@ -60,11 +60,10 @@ x_train_vec = feature_extraction.fit_transform(x_train)
 x_test_vec  = feature_extraction.fit_transform(x_test)
 ```
 
-## Horizontal Rules
+## PNL Pipeline :
 
-___
+   <img src="https://scontent.frba2-1.fna.fbcdn.net/v/t1.6435-9/118702300_1601754603339069_5094167818296872385_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=108&ccb=1-5&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_eui2=AeH9GxdNvfS63q75VNS5J_FvPBm2wHbftqE8GbbAdt-2odBhw1wtY86Roz0ux9xlJ9bZHCO62TsCvn6YOvuHSXnb&_nc_ohc=12Sq_G-2QGQAX_IFpx_&tn=eK5dDdWKz9zYXFmZ&_nc_ht=scontent.frba2-1.fna&oh=00_AT-stZWScKCLQ79qUmGNtuM07cinG6eSWi2uWhxK60mvrg&oe=623FAD9C" style="width:800px;height:300px;">
 
----
 
 ***
 
