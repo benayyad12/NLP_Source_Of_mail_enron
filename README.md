@@ -3,18 +3,17 @@
 __Dataset Enron corporation :
 
 - __[Enron Dataset](http://www.cs.cmu.edu/~enron/)__ - 
-- (about 1.7Gb, tarred and gzipped)
+(about 1.7Gb, tarred and gzipped)
   
 
-You will like those projects!
-
+## NLP :
 ---
 
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
+#  Natural Language Processing : 
+## Tokenazition
+## Lemmatization
+## Removing StopWords
+## 
 ###### h6 Heading
 
 
