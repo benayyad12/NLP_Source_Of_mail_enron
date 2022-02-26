@@ -26,6 +26,12 @@ __Dataset Enron corporation :__
    <img src="https://miro.medium.com/max/1400/1*UhfwmhMN9sdfcWIbO5_tGg.jpeg" style="width:800px;height:300px;">
 
 ## Lemmatization
+   __What is Tokenazition ?__
+   
+   <img src="/Users/abdessalambenayyad/Documents/ss" style="width:800px;height:300px;">
+
+   
+
 ## Removing StopWords
 ## 
 ###### h6 Heading
