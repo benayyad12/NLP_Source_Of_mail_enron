@@ -2,7 +2,7 @@
 
 <img src="https://0901.static.prezi.com/preview/v2/2a4mgil4d6kupwfmp7trbkgllt6jc3sachvcdoaizecfr3dnitcq_3_0.png" style="width:800px;height:300px;">
 
-__Dataset Enron corporation :
+__Dataset Enron corporation :__
 
 
 - __[Enron Dataset](http://www.cs.cmu.edu/~enron/)__ - 
