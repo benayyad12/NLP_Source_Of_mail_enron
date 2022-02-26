@@ -46,7 +46,7 @@ __Dataset Enron corporation :__
 
 
 # Text Vectorazition : 
-  __What is text vectorazition ? __
+  __What is text vectorazition ?__
 
 ```python
 # change input text to vectors : 
