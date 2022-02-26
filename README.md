@@ -49,7 +49,8 @@ __Dataset Enron corporation :__
   __What is text vectorazition ? __
 
 ```python
-dklslkds
+# change input text to vectors : 
+from sklearn.feature_extraction.text import TfidfVectorizer
 ```
 
 
