@@ -75,8 +75,9 @@ x_test_vec  = feature_extraction.fit_transform(x_test)
 !pip install -q gradio
 ```
   __Code of interface :___
-import gradio as gr
+
 ```python
+import gradio as gr
 body=['burlington ha bid default lost creek fuel purchase october cig plus send reminder email future bid due th month next business day th fall weekend scott sitter bear paw energy crestone energy venture l l c ph fax ssitter enron com']
 join_body=' '.join(body)
 def sender(join_body):
