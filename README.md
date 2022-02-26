@@ -13,6 +13,8 @@ __Dataset Enron corporation :__
 ---
 
 #  Natural Language Processing : 
+__What is NLP ?__
+- NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.
 ## Tokenazition
 ## Lemmatization
 ## Removing StopWords
