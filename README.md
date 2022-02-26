@@ -44,8 +44,13 @@ __Dataset Enron corporation :__
    
    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Stop-word-removal-using-NLTK.png" style="width:800px;height:300px;">
 
-## 
-###### h6 Heading
+
+# Text Vectorazition : 
+  __What is text vectorazition ? __
+
+```python
+dklslkds
+```
 
 
 ## Horizontal Rules
