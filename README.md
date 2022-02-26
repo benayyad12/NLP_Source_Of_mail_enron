@@ -71,11 +71,9 @@ x_test_vec  = feature_extraction.fit_transform(x_test)
 ## Gradio for Interface :
    __Instal gradio :__
    
-      ```python
-      
-      !pip install -q gradio
-      
-      ```
+```python
+!pip install -q gradio
+```
       
     
     
