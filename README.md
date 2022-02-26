@@ -28,7 +28,7 @@ __Dataset Enron corporation :__
 ## Lemmatization
    __What is Lemmatization ?__
    
-   <img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1539984207/stemminglemmatization_n8bmou.jpg" style="width:1000px;height:300px;">
+   <img src="https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1539984207/stemminglemmatization_n8bmou.jpg" style="width:800px;height:500px;">
 
    
 
