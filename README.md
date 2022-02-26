@@ -15,7 +15,7 @@ __Dataset Enron corporation :__
 #  Natural Language Processing : 
    __What is NLP ?__
      - NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.
-     <img src="https://deeplearninganalytics.org/wp-content/uploads/2019/04/nlp.png" style="width:800px;height:300px;">
+     - <img src="https://deeplearninganalytics.org/wp-content/uploads/2019/04/nlp.png" style="width:800px;height:300px;">
 ## Tokenazition
 ## Lemmatization
 ## Removing StopWords
