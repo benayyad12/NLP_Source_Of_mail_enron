@@ -22,7 +22,8 @@ __Dataset Enron corporation :__
   
 ## Tokenazition
    __What is Tokenazition ?__
-     <img src="https://miro.medium.com/max/1400/1*UhfwmhMN9sdfcWIbO5_tGg.jpeg" style="width:800px;height:300px;">
+   
+   <img src="https://miro.medium.com/max/1400/1*UhfwmhMN9sdfcWIbO5_tGg.jpeg" style="width:800px;height:300px;">
 
 ## Lemmatization
 ## Removing StopWords
