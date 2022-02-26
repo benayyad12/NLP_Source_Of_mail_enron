@@ -19,6 +19,7 @@ __Dataset Enron corporation :__
      
      
   <img src="https://deeplearninganalytics.org/wp-content/uploads/2019/04/nlp.png" style="width:800px;height:300px;">
+  
 ## Tokenazition
 ## Lemmatization
 ## Removing StopWords
